@@ -10,13 +10,13 @@ disable_screenshake false
 enable_debugconsole true
 framesnapping_maxerror 0.000200
 modding_dont_cache_levels true
-modding_faststart false
+modding_faststart true
 override_steam_sdl_bindings true
 particle_amount 2
 render_height 1080
 render_width 1920
 save_file_backups true
-screen_mode borderless
+screen_mode fullscreen
 shaders low
 update_multiplicity 1
 update_rate 60.000000
